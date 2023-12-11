@@ -1,0 +1,99 @@
+.box{
+    width: 100%;
+    height: 600px;
+    padding: 40px 60px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.box p{
+    font-size: 20px;
+}
+
+/* .section-1{
+      height: 100vh;
+      background-image: url(../assets/back-1.jpg);
+      background-attachment: fixed;
+      background-size: cover;
+} */
+
+.section-2{
+    
+}
+
+.section-3{
+    /* height: 100vh;
+    
+    background-image: url(../assets/back-2.jpg);
+    background-attachment: fixed;
+    background-size: cover; */
+}
+
+.section-4{
+    /* background: #98af98; */
+    background-image: url(../assets/back-3.jpg);
+    background-size: cover;
+   
+
+    height: 100%;
+}
+@media only screen and (max-width: 600px) {
+   .section-4{
+    background-size: contain;
+   }
+   .css-1pakhqo{
+    height: 375px !important;
+   }
+   .css-67pd4f{
+    height: 375px !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   }
+   .css-7txn9a{
+    background: none !important;
+    margin: 0px !important;
+    padding: 0% !important;
+   }
+   .css-18flx94{
+    height: 15vh !important ;
+   }
+   .css-7txn9a{
+    display: -webkit-flex;
+   }
+   .css-4tnojn{
+    display: none !important;
+   }
+   .css-1iiwe2t{
+    margin-top: 70px !important;
+   }
+   .css-1gil05d{
+    overflow: visible !important;
+   }
+   .css-1811skr{
+    gap: 0px !important;
+   }
+   .css-195amyc{
+    height: 100% !important;
+    width: 100% !important;
+   }
+   .css-ovb4uu{
+   margin:  30px  20px 30px 100% !important;
+   }
+   .css-lex0tf{
+    gap: 25px !important;
+   }
+   .css-xfdvzl{
+    width: auto !important;
+    min-height: auto !important;
+    padding: 0 !important;
+    margin: auto !important;
+   }
+   .hflVdq{
+    width: 100vw !important;
+    height: 26vh !important;
+   }
+   .section-1{
+    height: 40vh;
+    width: 100vw;
+   }
+}
